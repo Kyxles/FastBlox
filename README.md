@@ -6,7 +6,7 @@ FastBlox is a optimizer software for Roblox removing things such as textures, et
 
 ## What features does FastBlox currently offer?
 FastBlox currently offers the following features: 
-**- Unlocks FPS
-- Gray Sky
-- Removes Some Telemetry
-- Removes Textures**
+**- Unlocks FPS**
+**- Gray Sky**
+**- Removes Some Telemetry**
+**- Removes Textures**
